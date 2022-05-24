@@ -1,7 +1,6 @@
 ## Olá! Eu sou Alan Mestezk 😁 | Hi! I'm Alan Mestezk 😁
 
-- 🔭 Hoje estou cusando Web Full Stack na Digital Hause | 🔭 Today I'm using Web Full Stack at Digital Hause
-- 🌱 Estudando JavaScript | 🌱 Studying JavaScript
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
