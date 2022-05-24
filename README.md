@@ -3,6 +3,11 @@
 - 🔭 Hoje estou cusando Web Full Stack na Digital Hause | 🔭 Today I'm using Web Full Stack at Digital Hause
 - 🌱 Estudando JavaScript | 🌱 Studying JavaScript
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanMestezk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMestezk&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div align="center" alt="Alan-Js" height="40" width="70">
   
