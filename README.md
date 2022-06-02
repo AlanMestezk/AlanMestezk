@@ -1,4 +1,7 @@
 ## Olá! Eu sou Alan Mestezk, sou desenvolvedor full stack e todos os dias aprendo coisas novas! 😁 | Hi! I'm Alan Mestezk, I'm a full stack developer and every day I learn new things! 😁
+🌱Estudando C Sharp (C#)...  | 🌱Studying C Sharp (C#)...
+🌱 Estudando React...        | 🌱 Studying React...
+
 
 
 
