@@ -1,4 +1,4 @@
-## Hi! I'm Alan Mestezk, I'm a full stack developer and every day I learn new things! 😁
+## Hi! I'm Alan Mestezk, I'm a full stack developer😁
 🌱Studying C Sharp (C#) ...
 
 
