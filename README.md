@@ -1,6 +1,6 @@
 ## Hi! I'm Alan Mestezk, I'm a full stack developer😁
 🌱Studying C# 
-🌱Studying Angular 
+🌱Studying React 
 
 
 
