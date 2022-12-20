@@ -1,4 +1,4 @@
-##dev front-end 😁
+ dev front-end 😁
 🌱Studying React 
 
 
