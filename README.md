@@ -11,10 +11,10 @@
 ##
 <div align="center">
 
-  <img align="center" alt="Alan-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-Js" height="55" width="55" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png">
-  <img align="center" whidth="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
+  <img align="center" alt="Alan-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alan-Js" height="65" width="70" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png">
+  <img align="center" whidth="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
    
 </div>
 
