@@ -9,7 +9,7 @@ Minha paixar por programar surgiu quando eu percebi que aquelas letrinhas colori
   <a href="https://github.com/AlanMestezk">
   <img height="149em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanMestezk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="149em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanMestezk&layout=compact&langs_count=8&theme=dracula"/>
-   <img height="149em" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif"/>
+   <img height="180em" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif"/>
 </div>
 
 
