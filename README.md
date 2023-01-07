@@ -1,7 +1,7 @@
 Olá, sou um jovem desenvolvedor front-end, busco todos os dias aprimorar o conhecimento sobre desenvolvimento web.
 Minha paixão por programar surgiu quando eu percebi que aquelas letrinhas coloridas na tela do editor, poderiam realizar infinitas possibilidades!!!! E isso mudou minha perceção sobre computadores, sites e jogos... e então senti que queria fazer parte deste mundo de 'ifs' e 'elses'!
  - dev front-end 😁
- - 🌱Studying React 
+ - 🌱Studying Java
 
 
 
