@@ -1,7 +1,13 @@
-Olá, sou um jovem desenvolvedor front-end, busco todos os dias aprimorar o conhecimento sobre desenvolvimento web.
 
- - dev front-end 😁
- - 🌱Studying Java
+
+                                                                             ✨ 
+                                                                              
+                                                                                   🔭
+                                                                                   
+                                                                                   
+
+-⏳ Aperfeiçoando o esenvolvimento web
+-🌱No momento estudando Java
 
 
 
