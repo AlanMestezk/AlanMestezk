@@ -6,7 +6,7 @@
                                                                                    
                                                                                    
 
--⏳ Aperfeiçoando o esenvolvimento web
+-⏳ Aperfeiçoando o desenvolvimento web
 
 -🌱No momento estudando Java
 
