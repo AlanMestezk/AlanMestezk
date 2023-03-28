@@ -3,14 +3,15 @@
   <div>
     <img height="40em" src="https://media.giphy.com/media/25FhjsSZBUZh6aTatl/giphy.gif"/> 
 </div>
-  Eai! Este é meu perfil... Fique a vontade
+  
+Hello, this is my profile/portfolio!
+Feel free!
                                                                                    
  ##                                                                                  
 
--⏳ Aperfeiçoando o desenvolvimento web
+-⏳ Improving web development 🌎
 
--🌱No momento estudando Java
-
+-🌱 Currently studying Java☕ 
 
 
 <div align="center">
