@@ -11,7 +11,7 @@ Feel free!
 
 -⏳ Improving web development 🌎
 
--🌱 Currently studying React⚛️  
+-🌱 Currently studying React Native⚛️  
 
 
 <div align="center">
