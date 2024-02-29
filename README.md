@@ -13,6 +13,7 @@ Feel free!
 
 -🌱 Currently studying React Native⚛️  
 
+- 💻 This is my latest project: [*the king that never was*](https://tkntw-vercel.vercel.app)
 
 <div align="center">
   <a href="https://github.com/AlanMestezk">
