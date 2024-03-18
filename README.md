@@ -9,11 +9,11 @@ Feel free!
                                                                                    
  ##                                                                                  
 
--⏳ Improving web development 🌎
+-⏳ Improving mobile application 🌎
 
 -🌱 Currently studying React Native⚛️  
 
-- 💻 This is my latest project: [*the king that never was*](https://tkntw-vercel.vercel.app)
+- 💻 This is my latest project web: [*the king that never was*](https://tkntw-vercel.vercel.app)
 
 <div align="center">
   <a href="https://github.com/AlanMestezk">
