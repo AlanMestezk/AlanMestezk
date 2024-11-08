@@ -1,6 +1,6 @@
 
 
-  <div>
+<div>
     <img height="50em" src="https://media.giphy.com/media/25FhjsSZBUZh6aTatl/giphy.gif"/> 
 </div>
   
@@ -13,7 +13,7 @@ Feel free!
 
 -🌱 Currently studying React Native⚛️  
 
-- 💻🌎 My latest projects: [*the king that never was*](https://tkntw-vercel.vercel.app) |  [*Crypto Values*](https://crypto-values-app.vercel.app)
+- 💻🌎 My latest projects: [*the king that never was*](https://github.com/AlanMestezk/TKNTW) |  [*Convivio Sereno - Centro dia Para Idosos*](https://github.com/AlanMestezk/ConvivioSerenoApp)
 
 <div align="center">
   <a href="https://github.com/AlanMestezk">
