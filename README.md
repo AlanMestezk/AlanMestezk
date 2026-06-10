@@ -9,7 +9,7 @@ I'm **Alan Mestezk**, a passionate **Front-End Developer** who loves crafting st
 ---
   
 ### 🚀 What I'm up to:  
-- ⏳ **Improving mobile applications** 📱  
+- ⏳ **Improving mobile applications** 📱 and Python 🐍
 - 🌱 **Currently diving deep into React Native** ⚛️  
 - 💡 **Obsessed with sleek UI/UX & performance optimization**  
 
