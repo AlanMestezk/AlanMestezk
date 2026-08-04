@@ -1,62 +1,145 @@
 <div align="center">
-  <img height="50em" src="https://media.giphy.com/media/25FhjsSZBUZh6aTatl/giphy.gif"/> 
+
+# 👋 Hi, I'm Alan Mestezk
+
+<p>
+  <img src="https://media1.tenor.com/m/exNwpIAgGFEAAAAC/drive.gif" width="320" alt="Cyberpunk Drive">
+</p>
+
+### Front-End Developer • React • TypeScript • React Native
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Passionate+about+UI%2FUX;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AlanMestezk&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</p>
+
 </div>
 
-# 👋 Hey there! Welcome to my world of Front-End Magic! 🚀✨  
-
-I'm **Alan Mestezk**, a passionate **Front-End Developer** who loves crafting stunning and interactive web experiences. I'm constantly exploring the latest web technologies and pushing my limits to build amazing user interfaces!  
-
----
-  
-### 🚀 What I'm up to:  
-- ⏳ **Improving mobile applications** 📱 and Python 🐍
-- 🌱 **Currently diving deep into React Native** ⚛️  
-- 💡 **Obsessed with sleek UI/UX & performance optimization**  
-
 ---
 
-### 🌟 My Latest Projects:  
+# 💫 About Me
 
-🎮 [**The King That Never Was**](https://github.com/AlanMestezk/TKNTW) – Interactive Game Interface  
-🕹️ [**Mustache Arcade**](https://mustachearcade-five.vercel.app) – Game Review Platform  
-🏡 [**Convívio Sereno**](https://github.com/AlanMestezk/ConvivioSerenoApp) – A Website for Elderly Daycare  
+I'm a **Front-End Developer** passionate about creating modern, responsive and intuitive interfaces.
+
+Currently focused on:
+
+- ⚛️ React & TypeScript
+- 📱 React Native
+- 🐍 Python
+- 🎨 UI/UX
+- 🚀 Performance Optimization
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 The King That Never Was
+
+An immersive RPG-inspired game built with **React** and **TypeScript**, inspired by classic RPG adventures.
+
+**Tech Stack**
+
+`React` • `TypeScript` • `CSS`
+
+<br>
+
+<a href="https://tkntw-vercel.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge">
+</a>
+
+<a href="https://github.com/AlanMestezk/TKNTW">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🕹️ Mustache Arcade
+
+Game discovery and review platform built with **React** and **TypeScript**.
+
+**Tech Stack**
+
+`React` • `TypeScript`, `SCSS`
+
+<br>
+
+<a href="https://mustachearcade-five.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge">
+</a>
+
+<a href="https://github.com/AlanMestezk/mustacharcade">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,java,git,github,vscode,androidstudio" />
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlanMestezk&show_icons=true&theme=tokyonight&hide_border=true"
+alt="GitHub Stats"/>
+
+<img
+height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlanMestezk&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
+
+</div>
+
+---
+
+# 🌎 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alan-souza-mestezk-9b86a2154" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/alanmestezk" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/AlanMestezk">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanMestezk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanMestezk&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
-<div align="center">
-  <img height="130em" src="https://media.tenor.com/D5ScqejhhYkAAAAC/computer-typing.gif"/>
-</div>
+### ⚡ *"Code is like humor. When you have to explain it, it's bad."*
 
----
-
-### 💻 Tech Stack:  
-<div align="center">
-
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-  
-</div>
-
----
-
-### 🌎 Connect with Me:  
-<div align="center"> 
-  <a href="https://instagram.com/alanmestezk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/alan-souza-mestezk-9b86a2154" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:alanmestezk98@proton.me">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
 </div>
