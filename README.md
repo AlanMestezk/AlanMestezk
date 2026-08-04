@@ -3,15 +3,17 @@
 # 👋 Hi, I'm Alan Mestezk
 
 <p>
-  <img src="https://media1.tenor.com/m/exNwpIAgGFEAAAAC/drive.gif" width="320" alt="Cyberpunk Drive">
+  <img src="https://media1.tenor.com/m/exNwpIAgGFEAAAAC/drive.gif" width="300" alt="Cyberpunk Drive">
 </p>
 
-### Front-End Developer • React • TypeScript • React Native
+### ⚡ Building immersive digital experiences with React & TypeScript
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Passionate+about+UI%2FUX;Always+learning+new+technologies" alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=61DAFB&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+React+Native;Always+learning+something+new"
+    alt="Typing SVG"
+  />
 </p>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=AlanMestezk&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
@@ -22,7 +24,9 @@
 
 # 💫 About Me
 
-I'm a **Front-End Developer** passionate about creating modern, responsive and intuitive interfaces.
+I'm a **Front-End Developer** passionate about crafting immersive, responsive and high-performance web experiences.
+
+I enjoy turning ideas into modern applications with a strong focus on **clean architecture**, **user experience**, and **scalable solutions**.
 
 Currently focused on:
 
@@ -46,7 +50,7 @@ Currently focused on:
 
 ### 🎮 The King That Never Was
 
-An immersive RPG-inspired game built with **React** and **TypeScript**, inspired by classic RPG adventures.
+Immersive RPG experience inspired by classic adventures, built with **React** and **TypeScript**.
 
 **Tech Stack**
 
@@ -68,11 +72,11 @@ An immersive RPG-inspired game built with **React** and **TypeScript**, inspired
 
 ### 🕹️ Mustache Arcade
 
-Game discovery and review platform built with **React** and **TypeScript**.
+Modern game discovery platform focused on reviews, ratings and community interaction.
 
 **Tech Stack**
 
-`React` • `TypeScript`, `SCSS`
+`React` • `TypeScript` • `SCSS`
 
 <br>
 
@@ -140,6 +144,6 @@ alt="Top Languages"/>
 
 <div align="center">
 
-### ⚡ *"Code is like humor. When you have to explain it, it's bad."*
+### 🌌 *"Building tomorrow's experiences with today's code."*
 
 </div>
