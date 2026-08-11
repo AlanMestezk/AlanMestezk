@@ -108,24 +108,6 @@ Modern game discovery platform focused on reviews, ratings and community interac
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlanMestezk&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Stats"/>
-
-<img
-height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlanMestezk&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"/>
-
-</div>
-
----
-
 # 🌎 Connect with Me
 
 <div align="center">
